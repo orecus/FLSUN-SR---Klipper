@@ -11,6 +11,7 @@ Printer Firmware can be found here: https://github.com/makerbase-mks/Klipper-for
 5) You should now be able to connect and see the printer in Fluidd or Mainsail.
 6) The printer configuration supplied here should serve as a starting point, there are more that can and should be configured, please read below and configure what is applicable.
 
+You can follow the guide here: https://3dprintbeginner.com/klipper-on-flsun-super-racer/ for more detailed steps and instructions, change as applicable for the Nano 3 Board.
 ## Calibration
 
 The below steps should be reviewed and configured as applicable.
